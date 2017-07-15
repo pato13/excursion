@@ -1,12 +1,12 @@
 body{
   background-color: black;
   font-family: verdana, sans-serif;
-
+  text-align: center;
+  color: white;
 }
 h1{
   font-size:50px;
   font-weight: normal;
-  text-align: center;
 }
 h2{
   font-size: 42px;
@@ -19,11 +19,11 @@ video{
 p{
   color: gray;
   font-size: 21px;
-  text-align:center;
 }
 .cta{
   color: aquamarine;
   font-size:16px;
+
 }
 .footer{
   text-align:right;
